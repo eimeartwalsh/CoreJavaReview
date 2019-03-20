@@ -11,4 +11,4 @@ public class ex05 {
     }
 }
 
-// If we try to cast a number bigger than any type int to int, program returns the largest int. 
+// If we try to cast a number bigger than any type int to int, program returns the largest int.
